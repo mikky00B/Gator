@@ -18,4 +18,4 @@ Before installing and configuring `gator`, ensure you have the following install
 Because Go programs are statically compiled, you can install the `gator` binary directly into your `$GOPATH/bin` directory using the standard toolchain:
 
 ```bash
-go install [github.com/your-username/gator@latest](https://github.com/your-username/gator@latest)
+go install [github.com/mikky00B/Gator@latest](https://github.com/mikky00B/gator@latest)
